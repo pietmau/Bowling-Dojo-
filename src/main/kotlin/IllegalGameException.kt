@@ -1,0 +1,1 @@
+class IllegalGameException : Exception()

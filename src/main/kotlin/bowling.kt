@@ -1,0 +1,1 @@
+const val STRIKE_COUNT: Int = 10
